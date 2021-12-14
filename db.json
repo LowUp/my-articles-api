@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "author": "Hello World",
+      "content": "Mangas/Animes are live !! So, stop playing.",
+      "date": 1638979648197,
+      "id": 6
+    },
+    {
+      "author": "Hi",
+      "content": "Yo, Nice to see you here. Please make yourself comfortable. Feel free to write anything. However, please avoid writing anything inappropriate.",
+      "date": 1639226804789,
+      "id": 7
+    }
+  ]
+}
