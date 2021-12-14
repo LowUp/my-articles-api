@@ -1,0 +1,23 @@
+{
+  "name": "my-articles-api",
+  "version": "1.0.0",
+  "description": "Api that will hold articles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LowUp/my-articles-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LowUp/my-articles-api/issues"
+  },
+  "homepage": "https://github.com/LowUp/my-articles-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
