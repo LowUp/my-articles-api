@@ -1,2 +1,2 @@
 # my-articles-api
-Api that will hold articles
+Api that will hold articles data
